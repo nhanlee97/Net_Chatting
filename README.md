@@ -2,11 +2,11 @@
 This is our project in Computer Networking subject.
 
 There are 2 main files:
-a. server.py
+ server.py
   python3 server.py
-  
-  
-b. clientChat.py
+===============
+
+   clientChat.py
   python3 clientChat.py
 ===============
 Our project we used: 
