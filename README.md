@@ -3,10 +3,14 @@ This is our project in Computer Networking subject.
 
 There are 2 main files:
  server.py
+ 
+ 
   python3 server.py
 ===============
 
    clientChat.py
+   
+   
   python3 clientChat.py
 ===============
 Our project we used: 
